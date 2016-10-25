@@ -2,3 +2,5 @@ Hi Git,
 
 You are very useful,
 but very complicated.
+
+This was added in the second commit...
